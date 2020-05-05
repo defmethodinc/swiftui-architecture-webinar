@@ -1,0 +1,26 @@
+[
+    {
+        "id": "resource-01",
+        "title": "The Swift Programming Language Book",
+        "url": "https://docs.swift.org/swift-book/index.html",
+        "source": "Apple"
+    },
+    {
+        "id": "resource-02",
+        "title": "SwiftUI Tutorials",
+        "url": "https://developer.apple.com/tutorials/swiftui",
+        "source": "Apple"
+    },
+    {
+        "id": "resource-03",
+        "title": "Thinking in SwiftUI",
+        "url": "https://www.objc.io/books/thinking-in-swiftui/",
+        "source": "objc.io"
+    },
+    {
+        "id": "resource-04",
+        "title": "MVVM with Combine Tutorial for iOS",
+        "url": "https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios",
+        "source": "Ray Wenderlech"
+    }
+]
